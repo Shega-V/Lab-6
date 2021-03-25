@@ -7,7 +7,7 @@ package lab6project;
 
 /**
  *
- * @author dwilso1
+ * @author dwilso1 & shegavala
  */
 public class Student extends Person {
 
